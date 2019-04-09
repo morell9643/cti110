@@ -19,7 +19,7 @@
 
 
   
-#get projected total sales
+# get projected total sales
 
 total_sales = float(input('Enter projected total sales: '))
 
